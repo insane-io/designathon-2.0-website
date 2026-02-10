@@ -135,4 +135,4 @@ const MissionRewards = () => {
   )
 }
 
-export default MissionRewards
+export default MissionRewards;
